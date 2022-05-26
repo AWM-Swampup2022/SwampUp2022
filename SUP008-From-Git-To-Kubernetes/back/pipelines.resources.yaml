@@ -4,7 +4,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: AWN-Swampup2022/SwampUp2022
+      path: AWM-Swampup2022/SwampUp2022
       branches:
         include: main
 
